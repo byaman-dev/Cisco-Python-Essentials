@@ -1,26 +1,24 @@
-# 📊 Module 2: Data Types, Variables, and Basic I/O
+# 🏛️ Module 2: Python Data Fundamentals
 
-In this module, I am learning how Python stores information and how to interact with the user. This is the "Data Layer" of programming.
+This module covers the core building blocks of the Python language as defined by the **Cisco Networking Academy**. I have organized the curriculum into six tactical sectors.
 
-## 1. Python Literals
-Literals are data whose values are determined by the literal itself.
-* **Integers:** `10`, `255`, `-5` (Whole numbers).
-* **Floats:** `3.14`, `9.8` (Numbers with decimals).
-* **Strings:** `"AI_Security"`, `'Cisco'` (Text wrapped in quotes).
-* **Booleans:** `True`, `False` (Logical values).
+## 🛠️ Implementation Overview
 
-
-
-## 2. Advanced `print()` Function
-Cisco teaches how to control output using **keyword arguments**:
-- `sep=`: Defines the separator between multiple arguments.
-- `end=`: Defines what is printed at the very end of the line.
-
-## 3. Variables & Operators
-Variables are "containers" for storing data values.
-* **Naming Rules:** Must start with a letter or underscore, no spaces, no special characters.
-* **Operators:** `+`, `-`, `*`, `/`, `//` (floor division), `%` (modulo), `**` (exponentiation).
+| Sector | Core Focus | Technical Application |
+| :--- | :--- | :--- |
+| **01** | **I/O Operations** | Mastering `print()` arguments for system logging. |
+| **02** | **Data Literals** | Representing Binary, Hexadecimal, and Octal values. |
+| **03** | **Operators** | Arithmetic priorities and Modulo logic patterns. |
+| **04** | **Variables** | Dynamic typing and shortcut assignment operators. |
+| **05** | **Documentation** | Using PEP 8 comments and Docstrings. |
+| **06** | **Type Casting** | Converting data types for safe user interaction. |
 
 ---
-### 🛡️ Security Connection
-Understanding **Data Types** is critical for preventing "Type Confusion" attacks. As a security engineer, I must ensure that user input (usually a String) is properly validated before being treated as a number or a command.
+
+## 📈 Learning Outcomes
+1.  Developed an understanding of how Python manages memory through variables.
+2.  Applied mathematical operators to real-world scenarios (Storage, Load Balancing).
+3.  Practiced **Type Safety** by explicitly converting strings to numeric types.
+
+---
+*Maintained by [@byaman-dev](https://github.com/byaman-dev)*
