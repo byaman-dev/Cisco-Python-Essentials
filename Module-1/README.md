@@ -1,32 +1,30 @@
-# 🐍 Pro-Tip: Python Essentials 1 - Module 1
-> **Mastering the Basics of Computer Programming**
+# 🐍 Cisco Networking Academy: Python Essentials 1
+## Module 1: Introduction to Python and Computer Programming
 
----
+### 📌 Overview
+This module covers the fundamental concepts of computer programming and the Python ecosystem. I am documenting my journey here as part of my preparation for the **MEXT Scholarship (Undergraduate)**.
 
-## 💡 The "Big Picture" Recap
-In this module, I moved beyond just "typing code" and learned how the machine actually thinks. The core takeaway? **Python is the bridge** between human logic and computer execution.
+### 🧠 Key Concepts Learned
+* **Interpreted vs. Compiled:** Understanding how Python translates source code into machine code using an interpreter.
+* **Python Versions:** Differences between Python 2 (legacy) and Python 3 (modern).
+* **CPython:** The default and most popular implementation of Python.
+* **The Programming Process:** Source code -> Interpreter -> Execution.
 
-### 🚀 High-Level Concepts
-* **The Interpreter:** Unlike compiled languages (like C++), Python uses an **Interpreter**. It executes code line-by-line, which makes testing and debugging much faster for me as a developer.
-* **Source Code vs. Bytecode:** I learned the "behind-the-scenes" path:
-    1.  **Source Code** (`.py`) - What I write.
-    2.  **Bytecode** (`.pyc`) - The semi-compiled version.
-    3.  **PVM** - The Python Virtual Machine that actually runs the instructions.
+### 💻 Practicals & Labs
+In this module, I set up my environment and executed my first Python scripts.
+* `lab_01_hello_world.py`: Basic output using the `print()` function.
+* **IDLE Exploration:** Familiarizing myself with the Integrated Development and Learning Environment.
 
----
-
-## 🛠️ Technical Breakdown
-| Term | Pro Definition |
-| :--- | :--- |
-| **CPython** | The default, most widely used version of Python (written in C). |
-| **IDLE** | The "Integrated Development and Learning Environment" provided by Python. |
-| **Syntax** | The strict grammar rules. No syntax = No run. |
-| **Semantics** | The logic. A program can have perfect syntax but still do the wrong thing. |
+### 🛠 Tools Used
+* **Language:** Python 3.x
+* **Platform:** Cisco Networking Academy / SkillsForAll
+* **IDE:** VS Code / IDLE
 
 ---
 
 ## 🧠 My "Pro" Insight
 The most important realization from Module 1 is that **computers are literal.** They don't guess what you mean; they only do exactly what you say. Learning to code is actually about learning to be **precise.**
+
 
 ### ✅ Module 1 Checklist
 - [x] History of Python (Guido van Rossum)
