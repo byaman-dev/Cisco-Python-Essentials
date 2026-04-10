@@ -45,9 +45,7 @@ This repository is dedicated to my journey through the **Cisco PCAP (Certified A
 I have organized this project by **Engineering Sectors** to demonstrate a systems-level understanding of Python within a networking environment.
 
 * **[Module-1-Intro/](./Module-1/):** Exploration of the Python Virtual Machine (PVM), bytecode, and the history of the interpreter.
-* **[Module-2-Fundamentals/](./Module-2-Fundamentals/):** Implementation of variable state management, alternative number bases (Hex/Octal), and technical data audits.
-* **[Module-2-Concepts/](./Module-2-Fundamentals/Module-2-Concepts/):** Theoretical notebooks focusing on Bitwise logic, PEMDAS, and data integrity.
-* **[sector_labs/](./Module-2-Fundamentals/sector_labs/):** Hands-on practicals from the Cisco Networking Academy sandbox environments.
+* **[Module-2-Fundamentals/](./Module-2-Variables-DataTypes/):** Implementation of variable state management, alternative number bases (Hex/Octal), and technical data audits.
 
 ---
 
