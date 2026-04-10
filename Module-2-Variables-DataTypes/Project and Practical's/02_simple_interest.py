@@ -9,3 +9,4 @@ interest = (principal * rate * time) / 100
 
 print("The Simple Interest is:", interest)
 print("Total Amount to pay:", principal + interest)
+
