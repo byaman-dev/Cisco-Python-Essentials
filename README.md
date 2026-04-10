@@ -26,6 +26,20 @@ This repository is dedicated to my journey through the **Cisco PCAP (Certified A
 - [ ] **Capstone:** Final Security-Oriented Application
 ---
 
+## 📊 Progress Tracker
+*Tracking my journey toward the PCAP Certification.*
+
+| Stage | Module Topic | Status | Milestone Achievement |
+| :--- | :--- | :---: | :--- |
+| **01** | **Introduction to Python & PVM** | ██████████ 100% | Understood Python Virtual Machine & Interpreter logic. |
+| **02** | **Data Fundamentals & Variables** | ██████████ 100% | Mastered bitwise ops, hex/octal bases, and type-casting. |
+| **03** | **Control Flow & Logic** | ░░░░░░░░░░ 0% | *Next Objective: Logic gates, loops, and list processing.* |
+| **04** | **Functions & Modularization** | ░░░░░░░░░░ 0% | *Future: Scopes, recursion, and parameter passing.* |
+| **05** | **Packages & Exceptions** | ░░░░░░░░░░ 0% | *Future: Building robust, error-resistant systems.* |
+
+---
+
+
 ## 📂 Repository Structure
 
 I have organized this project by **Engineering Sectors** to demonstrate a systems-level understanding of Python within a networking environment.
